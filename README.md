@@ -1,1 +1,1 @@
-# Fast-Food-Landing-Page
+# Fast-Food-Responsive-Landing-Page
