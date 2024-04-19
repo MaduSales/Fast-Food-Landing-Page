@@ -3,9 +3,6 @@
 
 Projeto com HTML, CSS e JavaScript de uma landing page de um website de fast food
 
-Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
-
-
 ## Acesso
 
 [Clique aqui para acessar! :)](https://madusales.github.io/Fast-Food-Responsive-Landing-Page/)
